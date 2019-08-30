@@ -1,0 +1,11 @@
+{
+  "address": "YOUR_ETHEREUM_ADDRESS",
+  "privateKey": "YOUR_PRIVATE_KEY",
+  "delay": 3,
+  "logsPath": "logs",
+  "paths": [
+    "giano.py",
+    "gianoConfiguration.json",
+    "example.txt"
+  ]
+}

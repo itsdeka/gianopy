@@ -1,0 +1,23 @@
+{
+    "datetime": "2019-08-29 23:55:01.007910",
+    "pid": 58216,
+    "files": [
+        {
+            "path": "giano.py",
+            "dimension": 3491,
+            "hash": "6e6fbb0ce8e760534cf74f91296b774612e290dcf134cb452ce5645a7dd9fb38"
+        },
+        {
+            "path": "gianoConfiguration.json",
+            "dimension": 274,
+            "hash": "33d8765bbc84270b940e75425c4935aba1abceb43a5a159981e423d8978d999e"
+        },
+        {
+            "path": "example.txt",
+            "dimension": 20,
+            "hash": "330458966f91ca183e8b9a7b7f975cd7106fcd841c5ff897c13787e5a5a0d31f"
+        }
+    ],
+    "previousLogHash": null,
+    "previousLogTx": null
+}
